@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" width="100%" alt="Miguel Fajardo, desarrollador de software junior">
 </p>
 
-<h1 align="center">Miguel Fajardo</h1>
+<h1 align="center">Hola, soy Miguel Fajardo 👋</h1>
 
 <p align="center">
   <strong>Desarrollador de software junior</strong> · Estudiante de ADSO en el SENA
